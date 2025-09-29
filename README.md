@@ -1,76 +1,88 @@
+```markdown
+# 👋 Suhaib Nisar - Full-Stack AI Product Engineer
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhaib-nisar34/)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suho34/)
+[![Email Me](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhaibnisar01@gmail.com)
 
-### 👋 Hi, I'm Suhaib Nisar - Self-Directed Product Architect
+---
+```
 
-| **Focus** | **Expertise** |
-| :--- | :--- |
-| **Full-Stack Development** | Next.js 14+, React (Hooks, SSR), Node.js, TypeScript |
-| **AI/ML Integration** | RAG Systems, Gemini/Grok API, Prompt Engineering, Vector DBs |
-| **System Reliability** | CI/CD (Vercel/Netlify), API Throttling, Performance Optimization |
-
------
-
-### 🚀 Value Proposition 
-
-I am a **Full-Stack AI Product Engineer** focused on building and optimizing end-to-end systems.
-
-My work centers on bridging front-end performance with scalable backend services and **RAG-based AI features**. I architect solutions that drive product metrics, ensuring high-throughput APIs and **zero-downtime deployments**. I treat every project with the rigor required for production-readiness.
-
------
-
-### 🛠️ Core Technology Stack
-
-Here are the tools I actively use to build scalable products:
-
-| Category | Key Technologies |
-| :--- | :--- |
-| **Frontend** | **Next.js 14+**, React 19, TypeScript, Tailwind CSS, Framer Motion |
-| **Backend** | **Node.js**, Express.js, RESTful APIs, NextAuth.js |
-| **Database** | **MongoDB**, Mongoose, PostgreSQL, Firebase (Firestore, Auth) |
-| **AI/ML** | **Gemini API, Grok AI**, OpenAI API, JINA AI, Embeddings, Prompt Engineering |
-| **DevOps** | Git/GitHub, **Automated CI/CD (Vercel/Netlify)**, Vercel Blob Storage |
-
------
-
-### 💡 Featured Projects (The Senior-Level Portfolio)
-
-These projects showcase my ability to tackle complex problems involving system architecture and AI integration.
-
-#### 1\. [AI Document Analyzer (Axon) - Link to Repo]
-
-  * **Challenge:** Building an efficient Q\&A system from unstructured PDF data.
-  * **Impact:** Engineered a high-throughput **RAG pipeline** using **intelligent PDF chunking and vector embeddings**, leading to a **95% accuracy rate** in semantic search results and a **40% increase in document processing speed**.
-  * **Key Tech:** Next.js, TypeScript, **RAG Pipeline**, MongoDB, JINA AI.
-
-#### 2\. [AI Resume Evaluator (ResumeAI) - Link to Repo]
-
-  * **Challenge:** Developing a secure, performance-focused AI feedback platform.
-  * **Impact:** **Leveraged Grok AI and custom prompt engineering** to deliver actionable feedback, **cutting average resume analysis time from 15 seconds to 6 seconds (60% reduction)**, directly enhancing user throughput.
-  * **Key Tech:** Next.js 15, NextAuth.js, Grok AI, Vercel Blob, CI/CD.
-
-#### 3\. [Personalized Study Companion (Study Saathi) - Link to Repo]
-
-  * **Challenge:** Integrating real-time LLM interaction into a culturally specific productivity suite.
-  * **Impact:** **Integrated and load-tested the Google Gemini API** for core features, establishing a **robust conversational interface** that reduced the student’s average time-to-solution for study doubts by **45%**.
-  * **Key Tech:** React 19, Gemini API, Firebase Firestore, Performance Optimization (30% load time improvement).
-
------
-
-### 🔗 Connect With Me
-
-| Contact | Links |
-| :--- | :--- |
-| **LinkedIn** | [https://linkedin.com/in/suhaib-nisar34/](https://linkedin.com/in/suhaib-nisar34/) |
-| **Email** | `suhaibnisar01@gmail.com` |
-
------
-
-### 📈 GitHub Stats (Optional, but recommended)
-
-*If you want to add dynamic stats, use popular GitHub Actions to showcase your activity.*
+### 🚀 Value Proposition
 
 ```markdown
-[![Suhaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=vue)](https://github.com/[YOUR_USERNAME])
+### 🎯 Value Proposition
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=vue)](https://github.com/[YOUR_USERNAME])
+I am a **Self-Directed Product Architect** specializing in the **MERN/Next.js and TypeScript** ecosystem.
+
+My expertise is in optimizing web application performance and integrating **RAG-based AI features** (Gemini, Grok) into production systems. I focus on system ownership, driving product outcomes, and ensuring stability via **automated CI/CD pipelines**.
+
+| Focus Area | Core Skills |
+| :--- | :--- |
+| **Frontend Scaling** | Next.js Performance, React SSR, TypeScript |
+| **API Architecture** | Node.js, API Throttling, Connection Pooling |
+| **AI Systems** | RAG Implementation, Prompt Engineering, Vector DBs |
+
+---
 ```
+
+### 🛠️ Technical Stack 
+
+```markdown
+### 💻 Technical Stack & Environment
+
+| Area | Technologies Used |
+| :--- | :--- |
+| **Frontend** | **Next.js 14+**, React 19, TypeScript, Tailwind CSS, Framer Motion |
+| **Backend** | Node.js, Express.js, RESTful APIs, NextAuth.js |
+| **Data Layer** | **MongoDB (Mongoose)**, PostgreSQL, Firebase (Firestore, Auth) |
+| **AI/ML** | **Gemini API, Grok AI**, RAG Systems, JINA AI, Embeddings |
+| **DevOps** | Git/GitHub, **CI/CD (Vercel/Netlify)**, Vercel Blob Storage |
+
+---
+```
+
+### 💡 Featured Projects 
+
+The project details are strong, but adding a **Challenge/Solution** structure here is a powerful storytelling technique.
+
+````markdown
+### 🌟 Advanced Project Portfolio
+
+These projects demonstrate the **System Architecture and Production-Grade rigor** I apply to self-directed development.
+
+#### 1. AI Document Analyzer (Axon) - [[View Code]](link-to-repo)
+
+* **Problem Solved:** Built a secure, high-throughput system for querying unstructured PDF data.
+* **Technical Depth:** Engineered a high-throughput **RAG pipeline** using intelligent chunking and vector embeddings, leading to a **95% search accuracy rate** and **40% increase in document processing speed**.
+* **Stack:** Next.js, TypeScript, **RAG Pipeline**, MongoDB, JINA AI.
+
+#### 2. AI Resume Evaluator (ResumeAI) - [[View Code]](link-to-repo)
+
+* **Problem Solved:** Creating a rapid-feedback platform for resume optimization.
+* **Technical Depth:** **Leveraged Grok AI and custom prompt engineering** to deliver actionable feedback, **cutting average analysis time by 60%** and designing a full user tracking dashboard with **100% accurate change history**.
+* **Stack:** Next.js 15, NextAuth.js, Grok AI, Vercel Blob, CI/CD.
+
+#### 3. Personalized Study Companion (Study Saathi) - [[View Code]](https://study-saathi.netlify.app/)
+
+* **Problem Solved:** Integrating a personalized, low-latency AI conversational interface.
+* **Technical Depth:** **Load-tested the Google Gemini API** for core features, establishing a **robust conversational interface** that reduced the student’s average time-to-solution for study doubts by **45%**. Also achieved a **30% improvement in load times** through advanced React component optimization.
+* **Stack:** React 19, Gemini API, Firebase Firestore, Performance Optimization.
+
+---
+
+### 📈 GitHub Stats (Optional, Highly Recommended)
+
+```markdown
+### 📊 Development Metrics
+
+[![Suhaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suho34&show_icons=true&theme=dark)](https://github.com/Suho34)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suho34&layout=compact&theme=dark)](https://github.com/Suho34)
+````
+
+-----
+
+
+
+**The most crucial next step is to ensure that the three project repositories linked above also have their own high-quality READMEs, detailing the setup instructions and architecture. Don't let a recruiter click a link only to find a sparse repo\!**
