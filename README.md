@@ -6,92 +6,24 @@
 
 ---
 
-## 🚀 Value Proposition
 
-I am a **Self-Directed Product Architect** specializing in the **MERN/Next.js + TypeScript** ecosystem. My focus is building **AI-powered web products** with scalable architectures, production stability, and optimized performance.
+I'm a Computer Science student based in Kashmir, building practical web applications and intelligent AI agents. 
 
-I bring **system ownership** and rigor by combining **RAG-based AI systems** (Gemini, Grok) with CI/CD automation.
+I specialize in the MERN stack and Next.js, but my real passion right now is applied AI. I focus on taking complex concepts like RAG, vector databases, and LLMs and turning them into tools that solve real problems. I care deeply about writing clean code, understanding core fundamentals like Data Structures and Algorithms, and building products with solid architectures.
 
-| Focus Area | Core Skills |
-| :--- | :--- |
-| **Frontend Scaling** | Next.js Performance, React SSR, TypeScript |
-| **API Architecture** | Node.js, API Throttling, Connection Pooling |
-| **AI Systems** | RAG Implementation, Prompt Engineering, Vector DBs |
+### 🛠️ What I'm Building
+* **[Axon](https://github.com/Suho34/Axon):** An AI document analyzer. I built a RAG pipeline using JINA AI and MongoDB to query unstructured PDFs, making document processing significantly faster and more accurate.
+* **[ResumeAI](https://github.com/Suho34/ResuAI):** A resume critique tool powered by Next.js 15 and Grok AI. It gives users instant, ATS-focused feedback to help them land interviews.
+* **[StudySaathi](https://github.com/Suho34/study-saathi):** A low-latency conversational study companion using React 19 and the Gemini API to help students resolve doubts instantly.
+* **Upcoming | AI Job Agent:** Currently blueprinting an autonomous AI agent designed to scrape, find, and apply for jobs automatically.
+* **Community & Productivity:** Developing a personal productivity platform called Pulse, and recently launched a website for the Open Library Kashmir NGO.
 
----
+### ⚙️ How I Work
+* **Frontend:** Next.js, React, TypeScript, Tailwind CSS (Focus on SSR and performance scaling)
+* **Backend:** Node.js, Express, MongoDB, PostgreSQL, Firebase
+* **AI & Architecture:** Vercel AI SDK, prompt engineering, CI/CD automation, and API design
 
-## 💻 Technical Stack
+### 🚀 Beyond the Code
+When I'm not tweaking a prompt or optimizing database queries, I'm usually grinding ranks in Mobile Legends (always going for those burst/assassin plays) or planning content for my upcoming motivation channel, Ignition.
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="TailwindCSS"/>
-</p>
-
----
-
-## 🌟 Advanced Project Portfolio
-
-> These projects show my ability to **architect, optimize, and productionize** systems.
-
-### 🔹 AI Document Analyzer (Axon) - [[View Code]](link-to-repo)
-- **Problem:** Secure and efficient querying of unstructured PDFs.
-- **Solution:** Designed a **RAG pipeline** with intelligent chunking + embeddings.
-- **Impact:** Achieved **95% retrieval accuracy** and **40% faster document processing**.
-- **Stack:** Next.js, TypeScript, MongoDB, JINA AI.
-
----
-
-### 🔹 AI Resume Evaluator (ResumeAI) - [[View Code]](link-to-repo)
-- **Problem:** Resume review tools lacked instant, actionable insights.
-- **Solution:** Integrated **Grok AI + custom prompts** for ATS-focused resume feedback.
-- **Impact:** Cut analysis time by **60%** with **100% accurate change history tracking**.
-- **Stack:** Next.js 15, NextAuth.js, Vercel Blob, CI/CD.
-
----
-
-### 🔹 Personalized Study Companion (Study Saathi) - [[View Code]](https://study-saathi.netlify.app/)
-- **Problem:** Students faced delays in doubt resolution.
-- **Solution:** Built a **low-latency conversational AI** with Gemini API.
-- **Impact:** Reduced time-to-solution by **45%**, improved page load by **30%**.
-- **Stack:** React 19, Firebase Firestore, Gemini API.
-
----
-
-## 💡 Long-Term Focus & Engineering Principles
-
-My current roadmap is focused on deepening expertise in three key areas:
-
-- **System Reliability:** Implementing **comprehensive observability** (Prometheus/Grafana) and **error monitoring** (Sentry) across production deployments.
-- **Architectural Scaling:** Exploring **monorepo structures (Nx)** and **serverless function patterns** to handle higher concurrent load efficiently.
-- **Advanced AI:** Moving beyond simple API calls to integrating custom, **fine-tuned open-source LLMs** into my RAG pipelines for specialized tasks.
-
-**My commitment is to delivering clean code, defensible architecture, and measurable product impact.**
-
----
-
-## 📊 Development Metrics
-
-[![Suhaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suho34&show_icons=true&theme=dark)](https://github.com/Suho34)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suho34&layout=compact&theme=dark)](https://github.com/Suho34)
-
----
-
-## 🔑 Next Steps (For Recruiters & Collaborators)
-
-✔️ Each project repo is equipped with **detailed READMEs** → setup, architecture diagrams, deployment instructions.
-✔️ Repositories follow **clean commit history** + **production-ready code**.
-✔️ Actively building **scalable AI-first products** with focus on **system performance and reliability**.
-
----
-*If you’re a recruiter, hiring manager, or collaborator, check the pinned projects below or reach out via email/LinkedIn.*
+Always open to talking about web architecture, AI products, or new opportunities. Let's connect!
